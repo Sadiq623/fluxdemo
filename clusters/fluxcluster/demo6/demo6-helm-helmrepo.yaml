@@ -12,7 +12,7 @@ spec:
       sourceRef:
         kind: HelmRepository
         name: demo6-source-helm
-      version: 21.1.4
+      version: 25.0.12
   interval: 1m0s
   values:
     service:
